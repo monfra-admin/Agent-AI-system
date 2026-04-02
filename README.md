@@ -63,6 +63,3 @@ Welcome to **Agentic-AI-Systems**  a curated and evolving knowledge base and han
 >  *More coming soon  contributions welcome!* You can start by forking and submitting your own code-based experiments.
 
 Pull requests are welcome! If you'd like to add new frameworks, examples, or summaries, fork the repo and submit a PR.
-
-
-Made with love by [Alireza Dirafzoon](https://github.com/alirezadir).
